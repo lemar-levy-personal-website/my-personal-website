@@ -1,0 +1,18 @@
+h1, h2, section {
+    font-family: 'Raleway', sans-serif;
+  }
+  
+  h1 {
+    font-weight: 300;
+    font-size: 2rem;
+  }
+  
+  
+  
+  section {
+    border-top: 1px solid #41f70f;
+  }
+  
+  body {
+    background-image: url(black-ball.jpg);
+  }
